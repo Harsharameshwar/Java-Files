@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Cat1"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="Parent"/>
+    <fullyQualifiedTypeName name="InstanceOf"/>
+    <fullyQualifiedTypeName name="Abstract"/>
+    <fullyQualifiedTypeName name="MultipleInheritance"/>
+    <fullyQualifiedTypeName name="Interface"/>
+</qualifiedTypeNameHistroy>

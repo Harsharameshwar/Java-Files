@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="InstanceOf"><rhs name\="InstanceOf"/></lhs><lhs name\="Bike"><rhs name\="Abstract"/></lhs><lhs name\="Abstract"><rhs name\="Abstract"/></lhs><lhs name\="Parnt"><rhs name\="MultipleInheritance"/></lhs><lhs name\="Parent1"><rhs name\="MultipleInheritance"/></lhs><lhs name\="MultipleInheritance"><rhs name\="MultipleInheritance"/></lhs><lhs name\="inter"><rhs name\="Interface"/></lhs><lhs name\="inter1"><rhs name\="Interface"/></lhs><lhs name\="Interface"><rhs name\="Interface"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

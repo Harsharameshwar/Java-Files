@@ -1,0 +1,14 @@
+package Collections;
+
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.Queue;
+
+public class Queues {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Queue<Integer> queue=new Queues()<Integer>();
+		
+	}
+}

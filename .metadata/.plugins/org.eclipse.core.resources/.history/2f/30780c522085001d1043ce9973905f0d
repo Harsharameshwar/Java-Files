@@ -1,0 +1,14 @@
+package Collections;
+
+public class Arrays {
+	public void run() {
+		System.out.println("Welcome");
+	}
+
+	public static void main(String[] args) {
+		Arrays arr= new Arrays();
+		// TODO Auto-generated method stub
+		
+	}
+
+}

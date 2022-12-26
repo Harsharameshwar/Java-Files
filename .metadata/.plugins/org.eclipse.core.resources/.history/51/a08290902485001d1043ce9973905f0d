@@ -1,0 +1,24 @@
+package Collections;
+
+import java.util.ArrayList;
+//import java.util.Iterator;
+
+public class Lists {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ArrayList<String> list=new ArrayList<String>();
+		String[] arr=new String[list.size()];
+		
+		list.add("Ravi");
+		list.add("Vijay");  
+		list.add("Ravi");  
+		list.add("Ajay");  
+		System.out.println(list);
+
+		
+
+	}
+
+}
